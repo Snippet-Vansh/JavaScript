@@ -1,5 +1,4 @@
 
-
 const student = {
   name: "Vansh",
   age: 20,
